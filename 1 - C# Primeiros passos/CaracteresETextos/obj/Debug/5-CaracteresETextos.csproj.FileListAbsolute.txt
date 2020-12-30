@@ -1,0 +1,7 @@
+C:\Users\rafae\source\repos\AprendendoCSharp\CaracteresETextos\bin\Debug\CaracteresETextos.exe.config
+C:\Users\rafae\source\repos\AprendendoCSharp\CaracteresETextos\bin\Debug\CaracteresETextos.exe
+C:\Users\rafae\source\repos\AprendendoCSharp\CaracteresETextos\bin\Debug\CaracteresETextos.pdb
+C:\Users\rafae\source\repos\AprendendoCSharp\CaracteresETextos\obj\Debug\5-CaracteresETextos.csprojAssemblyReference.cache
+C:\Users\rafae\source\repos\AprendendoCSharp\CaracteresETextos\obj\Debug\5-CaracteresETextos.csproj.CoreCompileInputs.cache
+C:\Users\rafae\source\repos\AprendendoCSharp\CaracteresETextos\obj\Debug\CaracteresETextos.exe
+C:\Users\rafae\source\repos\AprendendoCSharp\CaracteresETextos\obj\Debug\CaracteresETextos.pdb
