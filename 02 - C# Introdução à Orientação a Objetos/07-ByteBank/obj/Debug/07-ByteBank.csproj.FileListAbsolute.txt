@@ -1,0 +1,7 @@
+C:\Users\rafae\source\repos\Alura_dotNet\02 - C# Introdução à Orientação a Objetos\ByteBank\07-ByteBank\bin\Debug\07-ByteBank.exe.config
+C:\Users\rafae\source\repos\Alura_dotNet\02 - C# Introdução à Orientação a Objetos\ByteBank\07-ByteBank\bin\Debug\07-ByteBank.exe
+C:\Users\rafae\source\repos\Alura_dotNet\02 - C# Introdução à Orientação a Objetos\ByteBank\07-ByteBank\bin\Debug\07-ByteBank.pdb
+C:\Users\rafae\source\repos\Alura_dotNet\02 - C# Introdução à Orientação a Objetos\ByteBank\07-ByteBank\obj\Debug\07-ByteBank.csprojAssemblyReference.cache
+C:\Users\rafae\source\repos\Alura_dotNet\02 - C# Introdução à Orientação a Objetos\ByteBank\07-ByteBank\obj\Debug\07-ByteBank.csproj.CoreCompileInputs.cache
+C:\Users\rafae\source\repos\Alura_dotNet\02 - C# Introdução à Orientação a Objetos\ByteBank\07-ByteBank\obj\Debug\07-ByteBank.exe
+C:\Users\rafae\source\repos\Alura_dotNet\02 - C# Introdução à Orientação a Objetos\ByteBank\07-ByteBank\obj\Debug\07-ByteBank.pdb
