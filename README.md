@@ -4,7 +4,7 @@
 
 02 - C# Introdução à Orientação a Objetos :white_check_mark:
 
-03 - C# Entendendo heranças e interface :construction:
+03 - C# Entendendo heranças e interface :white_check_mark:
 
 04 - C# Entendendo exceções :construction:
 
